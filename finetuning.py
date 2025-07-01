@@ -23,7 +23,6 @@ try:
     print("Hugging Face login successful.")
 except Exception as e:
     print(f"Hugging Face login failed: {e}")
-    print("Please ensure your API key is correct.")
     exit()
 
 wandb.login(key=os.getenv("WANDB_KEY"))
