@@ -4,6 +4,7 @@ This code can be used to knowledge fine-tune LLMs for ABSC using the knowledge f
 ## Before running the code
 - Set up the programming environment:
   - Set up your Google Colab (or something similar) with Python 3.10
+  - Change your runtime to a GPU
   - Install the required packages: `pip install -r requirements.txt`
 - Set up the data:
   - The unprocessed SemEval datasets can be found in `Data/Raw SemEval Data`
