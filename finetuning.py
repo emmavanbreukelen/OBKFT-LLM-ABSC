@@ -34,7 +34,7 @@ import os
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Log in to HuggingFace and Wandb
+# Log in to HuggingFace and Wandb with you pass keys
 key_hf = os.getenv("HUGGINGFACE_KEY")
 try:
     login(token=key_hf)
