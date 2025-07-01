@@ -16,7 +16,7 @@ This code can be used to knowledge fine-tune LLMs for ABSC using the knowledge f
 
 ## Ontology verbalization
 1. Open the `verbalization.py` file
-2. The raw domain ontologies can be found in `Data/Raw Domain Ontologies`
+2. The raw domain ontologies can be found in `Data/Raw Ontology Data`
 3. Fill in the file path of the domain ontology you want to verbalize
 
 This will create a JSON file where all three sentiment expression types are verbalized.
