@@ -1,4 +1,5 @@
 # Run the code for the ontology you want to verbalize
+# Most of the code is similar for both ontologies, except for the mappings between specific instances/classes
 from owlready2 import get_ontology
 import json
 
