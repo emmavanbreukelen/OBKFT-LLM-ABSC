@@ -7,4 +7,6 @@ sentence-transformers==5.0.0
 torch==2.7.1
 transformers==4.53.0
 unsloth==2025.3.18
+xmltodict==0.13.0
+
 
