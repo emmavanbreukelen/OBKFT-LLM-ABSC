@@ -31,7 +31,7 @@ This will create a JSON file where all three sentiment expression types are verb
 
 After following these instructions and running the code, you should be able to the three evaluation metrics (accuracy, weighted F1, and macro F1) for all four evaluation approaches (zero-shot with and without fine-tuning, three-shot with and without fine-tuning).
 
-## References for the data
+## References for data
 - Schouten, K., Frasincar, F., and de Jong, F. (2017). Ontology-enhanced aspect-based sentiment analysis. In 17th International Conference on Web Engineering (ICWE 2017), LNCS, pages 302-320. Springer.
 - Zhuang, L., Schouten, K., and Frasincar, F. (2020). SOBA: Semi-automated ontology builder for aspect-based sentiment analysis. Journal of Web Semantics 60, 100544.
 - Pontiki, M., Galanis, D., Papageorgiou, H., Androutsopoulos, I., Manandhar, S., Al-Smadi, M., Al-Ayyoub, M., Zhao, Y., Qin, B., De Clercq, O., et al. (2016). Semeval-2016 task 5: Aspect based sentiment analysis. In 10th International Workshop on Semantic Evaluation (SemEval2016), pages 19-30. ACL.
