@@ -38,6 +38,6 @@ After following these instructions and running the code, you should be able to t
 - Pontiki, M., Galanis, D., Papageorgiou, H., Manandhar, S., and Androutsopoulos, I. (2015). Semeval-2015 task 12: Aspect based sentiment analysis. In 9th International Workshop on Semantic Evaluation (SemEval2015), pages 486-495. ACL.
 - Pontiki, M., Galanis, D., Pavlopoulos, J., Papageorgiou, H., Androutsopoulos, I. and Manandhar, S., (2014). Semeval-2014 task 4: Aspect based sentiment analysis. In 8th International Workshop on Semantic Evaluation (SemEval2014), pages 27-35. ACL.
 
-## References for the SemEval data pre-processing code
+## References for code
 - https://github.com/QuintenvdVijver/Ontology-Augmented-Prompt-Engineering
 
