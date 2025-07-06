@@ -166,7 +166,7 @@ type1_verbalizations = verbalize_type1_sentiments_laptop()
 # verbalize_type1_sentiments_laptop()
 
     # Return the verbalizations as a sorted, unique list
-    return sorted(set(verbalizations1L))
+    # return sorted(set(verbalizations1L))
 
 
 # TYPE 2 SENTIMENT EXPRESSIONS
